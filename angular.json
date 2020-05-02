@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ang-boot"
+    }
+  },
+  "defaultProject": "ang-boot",
+  "cli": {
+    "analytics": false
+  }
 }
